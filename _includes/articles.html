@@ -1,0 +1,22 @@
+<div class="inner">
+    <br>
+    <br>
+    <h6><center>ARTICLES</center></h6>
+    <div class="row">
+        <section id="five" class="news">
+        {% for post in site.categories.articles limit:6 %}
+          <article>
+            <span class="image">
+              <img src="{{ post.image }}" alt="" />
+            </span>
+            <header class="major">
+              <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+              <p>{{ post.description }}</p>
+            </header>
+          </article>
+        {% endfor %}
+        </section>
+    </div>
+    <br>
+    <br>
+</div>

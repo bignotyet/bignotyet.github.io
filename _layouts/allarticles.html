@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <!--<section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <h2>{{ site.description }}</h2>
+                <ul class="actions">
+                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>-->
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% include articles.html %}
+        <!-- Two -->
+        
+        <!--
+        <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Massa libero</h2>
+                </header>
+                <p>{{ content }}</p>
+                <ul class="actions">
+                    <li><a href="landing.html" class="button next">Get Started</a></li>
+                </ul>
+            </div>
+        </section>
+        -->
+        <!--
+        <section id="three">
+            <div class="inner">
+                <div class="row">
+                    <div class="6u 12u$(medium)">
+                        <header class="major">
+                            <h2>Latest news</h2>
+                        </header>
+                        <!--<ul class="alt">
+                            {% for posts in site.categories.news limit:6 %}
+                              <li><a href="{{ posts.url  | relative_url }}" class="link">{{ posts.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                        {% include news.html %}
+                        <div><br></div>
+                        <ul class="actions vertical small">
+                            <li><a href="#" class="button small fit">Read more</a></li>
+		                </ul>
+                        <div><br></div>
+                    </div>
+                    <div class="6u 12u$(medium)">
+                        <header class="major">    
+                            <h2>Featured articles</h2>
+                        </header>
+                            <ul class="alt">
+                            {% for posts in site.categories.articles limit:6 %}
+                              <li><a href="{{ posts.url  | relative_url }}" class="link">{{ posts.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                        
+                        {% include articles.html %}
+                        <div><br></div>
+                        <ul class="actions vertical small">
+                            <li><a href="#" class="button small fit">Read more</a></li>
+		                </ul>
+                        <div><br></div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+    -->    
+    </div>
+    
+    {% include footer.html %}
+
+</body>
+
+</html>
