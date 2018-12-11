@@ -171,7 +171,7 @@
 				width: 50% !important;
 			}
 		}
-
+        
 		@include breakpoint(small) {
 			article {
 				@include padding(3em, 1.5em);
@@ -184,7 +184,7 @@
 				}
 			}
 		}
-
+        
 		@include breakpoint(xsmall) {
 			display: block;
 
