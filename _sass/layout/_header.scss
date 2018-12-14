@@ -51,7 +51,8 @@
 
 			&:hover {
 				strong {
-					background-color: _palette(highlight);
+					//background-color: _palette(highlight);
+                    transform: scale(1.1);
 				}
 			}
 
