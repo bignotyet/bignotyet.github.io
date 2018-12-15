@@ -47,11 +47,13 @@
             </div>
             -->
             
+            {% if page.youtubeId %}
+            <center>
             <div class="row 50% uniform">   
-            <div class="4u">{% include youtubePlayer.html id=page.youtubeId1 %}</div>
-            <div class="4u">{% include youtubePlayer.html id=page.youtubeId2 %}</div>
-            <div class="4u$">{% include youtubePlayer.html id=page.youtubeId3 %}</div>
+            {% include youtubePlayer.html id=page.youtubeId %}
             </div>
+            </center>
+            {% endif %}
             
         </div>
         <br>

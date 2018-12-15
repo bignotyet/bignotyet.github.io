@@ -6,13 +6,11 @@ description2: 4-5 MAY 2019
 categories: festivals
 photo: Nathan Dainty
 
-facebook_url: https://www.facebook.com/lovaalvildemusic/
-instagram_url: https://www.instagram.com/lovaalvilde/
-twitter_url: https://twitter.com/lovaalvilde/
+facebook_url: https://www.facebook.com/liverpoolsoundcity/
+instagram_url: https://www.instagram.com/LIVERPOOLSOUNDCITY/
+twitter_url: https://twitter.com/SoundCity
 
-youtubeId1: te4L-fpqdBs
-youtubeId2: LA-O4m3ANWo
-youtubeId3: HvQiqXsDfJ4
+youtubeId: L7bVIqpEJ7M
 
 image: assets/images/liverpool.jpg
 ---

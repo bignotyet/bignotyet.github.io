@@ -1,7 +1,7 @@
 ---
 layout: artist
 title: Naked Cameo
-description: undefined
+description: Placid Maze 
 description2: Austrian
 categories: artists
 

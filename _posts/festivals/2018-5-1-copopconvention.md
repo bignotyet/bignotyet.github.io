@@ -6,13 +6,11 @@ description2: 1-5 MAY 2019
 categories: festivals
 photo: Jean Raclet
 
-facebook_url: https://www.facebook.com/lovaalvildemusic/
+facebook_url: https://www.facebook.com/copopconvention
 instagram_url: https://www.instagram.com/lovaalvilde/
-twitter_url: https://twitter.com/lovaalvilde/
+twitter_url:
 
-youtubeId1: te4L-fpqdBs
-youtubeId2: LA-O4m3ANWo
-youtubeId3: HvQiqXsDfJ4
+youtubeId:
 
 image: assets/images/copopconvention.jpg
 ---
