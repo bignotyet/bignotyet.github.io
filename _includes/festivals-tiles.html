@@ -1,14 +1,14 @@
 <div class="inner">
     <h6><center>SHOWCASE FESTIVALS</center></h6>
-        <section id="one" class="artists-tiles">
-            {% for post in site.categories.artists %}
+        <section id="one" class="festivals-tiles">
+            {% for post in site.categories.festivals %}
             <article>
                 <span class="image">
                     <img src="{{ post.image }}" alt="" />
                 </span>
                 <header class="major">
-                    <h3><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></h3>
-                    <p>{{ post.description }}</p>
+                    <h3><span class="text_over_highlight"><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></span></h3>
+                    <p><span class="text_over_highlight">{{ post.description }} | {{ post.description2 }}</span></p>
                 </header>
             </article>
             {% endfor %}

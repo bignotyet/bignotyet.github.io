@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+{% if page.image %}<span class="image header"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+
+<!-- Main -->
+<div id="main" class="alt">
+    <!-- One -->
+    <section id="one">
+        <div class="inner">
+            <center>
+            <header class="major">
+                <h1>{{ page.title }}</h1>
+                <h2>{{ page.description }}</h2>
+                <h5>{{ page.description2 }}</h5>
+            </header>
+            <span>·</span>
+            {% if page.facebook_url %}
+            <a href="{{ page.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a>
+            {% endif %}
+            {% if page.instagram_url %}
+            <a href="{{ page.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a>
+            {% endif %}
+            {% if page.twitter_url %}
+            <a href="{{ page.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a>
+            {% endif %}
+            <span>·</span>
+            <p>{{ content }}</p>
+            </center>
+            
+            <!--
+	        <div class="row 50% uniform">
+            <div class="4u"><span class="image squared"><img src="{{ site.baseurl }}//assets/images/AmandaTenfjord.jpg" alt="" /></span></div>
+            <div class="4u"><span class="image squared"><img src="{{ site.baseurl }}//assets/images/AmandaTenfjord.jpg" alt="" /></span></div>
+            <div class="4u$"><span class="image squared"><img src="{{ site.baseurl }}//assets/images/AmandaTenfjord.jpg" alt="" /></span></div>
+            </div>
+            -->
+            
+            <div class="row 50% uniform">   
+            <div class="4u">{% include youtubePlayer.html id=page.youtubeId1 %}</div>
+            <div class="4u">{% include youtubePlayer.html id=page.youtubeId2 %}</div>
+            <div class="4u$">{% include youtubePlayer.html id=page.youtubeId3 %}</div>
+            </div>
+            
+        </div>
+        <br>
+    </section>
+</div>
+    {% include footer.html %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+</body>
+
+</html>
