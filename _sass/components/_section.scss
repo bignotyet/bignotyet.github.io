@@ -7,6 +7,7 @@
 /* Section/Article */
 
 	section, article {
+        background-color: _palette(bg-alt);
 		&.special {
 			text-align: center;
 		}
@@ -23,13 +24,13 @@
 
 			> :first-child {
 				  margin-bottom: 0;
-				  width: calc(100% + 0.5em);
+				  //width: calc(100% + 0.5em);
 
 				  &:after {
 					    content: '';
 					    background-color: _palette(fg-bold);
 					    display: block;
-					    height: 2px;
+					    height: 3px;
 					    margin: 0.325em 0 0.5em 0;
 					    width: 100%;
 				  }

@@ -1,10 +1,10 @@
 ---
 layout: festival
-title: c/o pop convetion
-description: 1-5 MAY 2019
-description2: Cologne (Germany)
+title: Liverpool Sound City
+description: Liverpool (UK) 
+description2: 4-5 MAY 2019
 categories: festivals
-photo: Jean Raclet
+photo: Nathan Dainty
 
 facebook_url: https://www.facebook.com/lovaalvildemusic/
 instagram_url: https://www.instagram.com/lovaalvilde/
@@ -14,5 +14,5 @@ youtubeId1: te4L-fpqdBs
 youtubeId2: LA-O4m3ANWo
 youtubeId3: HvQiqXsDfJ4
 
-image: assets/images/copopconvention.jpg
+image: assets/images/liverpool.jpg
 ---

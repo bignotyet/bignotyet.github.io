@@ -1,8 +1,8 @@
 ---
 layout: festival
 title: Primavera Pro
-description: 29-2 JUNE 2019
-description2: Barcelona (Spain)
+description: Barcelona (Spain)
+description2: 29-2 JUNE-JULY 2019
 categories: festivals
 photo: Paco Amate
 

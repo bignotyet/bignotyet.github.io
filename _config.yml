@@ -1,17 +1,12 @@
 # site settings
 title: BIG? NOT YET
 subtitle: DISCOVER NEW ARTISTS
-email: bignotyet@gmail.com
+email: hello@bignotyet.com
 description: A new way to discover emerging artists. <br /> Are you ready for this adventure?
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+permalink: /:categories/:title
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

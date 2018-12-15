@@ -1,10 +1,10 @@
 ---
 layout: festival
-title: The Great Escape
-description: 9-11 MAY 2019
-description2: Brighton (UK)
+title: c/o pop convetion
+description: Cologne (Germany)
+description2: 1-5 MAY 2019
 categories: festivals
-photo: Mike Massaro
+photo: Jean Raclet
 
 facebook_url: https://www.facebook.com/lovaalvildemusic/
 instagram_url: https://www.instagram.com/lovaalvilde/
@@ -14,5 +14,5 @@ youtubeId1: te4L-fpqdBs
 youtubeId2: LA-O4m3ANWo
 youtubeId3: HvQiqXsDfJ4
 
-image: assets/images/tge.jpg
+image: assets/images/copopconvention.jpg
 ---
