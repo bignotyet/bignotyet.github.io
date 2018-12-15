@@ -16,5 +16,4 @@ youtubeId3: 3ndF5icg8uk
 image: assets/images/AmandaTenfjord.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
+Aged just 21, **Amanda Tenfjord** is already a promising artist. Besides having Greek roots, she grew up in a Norwegian town called Tennfjord –such a coincidence taking into account her surname– and now she’s based in Trondheim. Her music might remind you to the likes of **Sigrid** or **Aurora**: it’s not surprising then to discover that the three artists have collaborated with producer Askjell Solstrand. Others even compare her with **London Grammar** or **Adele**. 
