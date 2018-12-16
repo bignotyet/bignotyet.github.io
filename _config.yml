@@ -10,7 +10,7 @@ permalink: /:categories/:title
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:
