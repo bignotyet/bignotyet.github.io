@@ -2,15 +2,15 @@
 layout: festival
 title: Tallinn Music Week
 description: Tallinn (Estonia)
-description2: 1-5 MAY 2019
+description2: 25-31 MARCH 2019
 categories: festivals
-photo: Jean Raclet
+photo: 
 
-facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
-twitter_url: https://twitter.com/
+facebook_url: https://www.facebook.com/tallinnmusicweek
+instagram_url: https://www.instagram.com/tallinnmusicweek
+twitter_url: https://twitter.com/TlnMusicWeek
 
-youtubeId:
+youtubeId: 'f9V5bh6tx0U'
 
-image: assets/images/copopconvention.jpg
+image: assets/images/tallinnmusicweek.jpg
 ---
