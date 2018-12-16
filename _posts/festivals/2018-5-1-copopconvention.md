@@ -1,6 +1,6 @@
 ---
 layout: festival
-title: c/o pop convetion
+title: c/o pop convention
 description: Cologne (Germany)
 description2: 1-5 MAY 2019
 categories: festivals
