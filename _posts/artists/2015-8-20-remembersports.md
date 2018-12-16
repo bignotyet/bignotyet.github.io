@@ -2,7 +2,7 @@
 layout: artist
 title: Remember Sports
 description: Intelligent Noise
-description2: Dutch
+description2: American
 categories: artists
 
 spotify_url: https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc?si=SAl1P-WXR_qMTC1sFvvWnw
