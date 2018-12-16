@@ -1,7 +1,7 @@
 ---
 layout: festival
-title: c/o pop convetion
-description: Cologne (Germany)
+title: Tallinn Music Week
+description: Tallinn (Estonia)
 description2: 1-5 MAY 2019
 categories: festivals
 photo: Jean Raclet
