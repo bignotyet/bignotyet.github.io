@@ -18,7 +18,7 @@ Rock, electronic, post-punk, electropop… Versatile is *the* adjective to descr
 {% include youtubePlayer.html id='VqEnBUx2aTI' %}
 
 ## NICO CASAL
-Not many people in Spain may know his name, but this piano player received an Academy Award for the short film ‘Stutterer’ (2015), in which he wrote the score. After several years working as a film and advertising composer, **Nico Casal** is now determined to write for himself and release his own album soon. And apparently, he’s quite *‘Ready to talk’.*
+Not many people in Spain may know his name, but this piano player received an Academy Award for the short film <a href="https://vimeo.com/118746312">‘Stutterer’</a> (2015), in which he wrote the score. After several years working as a film and advertising composer, **Nico Casal** is now determined to write for himself and release his own album soon. And apparently, he’s quite *‘Ready to talk’.*
 
 {% include youtubePlayer.html id='F2LAzwYdYcY' %}
 

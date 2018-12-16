@@ -47,10 +47,10 @@ They were recommended to attend a music school after high school despite not hav
 
 These are the 24 nominees for the Music Moves Europe Talent Awards 2019: 
 
-ELECTRONIC/EDM - **Fais (NL), Smerz (NO), Solo Ansamblis (LT), Stelartronic (AT);**
-ROCK - **Naked Cameo (AT), Pale Waves (UK), Pip Blom (NL), Warhaus (BE);** 
-R&B/URBAN - **Aya Nakamura (FR), Cosha (IE), Rosalía (ES), Témé Tan (BE);** 
-SINGER/SONGWRITER - **Albin Lee Meldau (SE), Avec (AT), Boy Pablo (NO), Fil Bo Riva (IT);** 
-POP - **Bishop Briggs (UK), Her (FR), Lxandra (FI), Soleima (DK);** 
-HIP-HOP/RAP - **Ace Tee (DE), Blackwave. (BE), Eddy de Pretto (FR), Reykyavíkurdaetur (IS).**
+ELECTRONIC/EDM - **Fais (NL), Smerz (NO), Solo Ansamblis (LT), Stelartronic (AT)**.<br>
+ROCK - **Naked Cameo (AT), Pale Waves (UK), Pip Blom (NL), Warhaus (BE)**.<br>
+R&B/URBAN - **Aya Nakamura (FR), Cosha (IE), Rosalía (ES), Témé Tan (BE)**.<br>
+SINGER/SONGWRITER - **Albin Lee Meldau (SE), Avec (AT), Boy Pablo (NO), Fil Bo Riva (IT)**.<br>
+POP - **Bishop Briggs (UK), Her (FR), Lxandra (FI), Soleima (DK)**.<br> 
+HIP-HOP/RAP - **Ace Tee (DE), Blackwave. (BE), Eddy de Pretto (FR), Reykyavíkurdaetur (IS)**.
 
