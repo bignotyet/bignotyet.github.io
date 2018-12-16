@@ -12,5 +12,5 @@ twitter_url: https://twitter.com/liveatleedsfest
 
 youtubeId:
 
-image: assets/images/leeds.jpg
+image: assets/images/liveatleeds.jpg
 ---

@@ -5,6 +5,7 @@ description: SPARKLING YOUTH
 description2: Half-Greek | Half-Norwegian
 categories: artists
 
+spotify_url: https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr?si=xiClFp7BTBqA-QIyDD0Wbg
 facebook_url: https://www.facebook.com/amandatenfjord/
 instagram_url: https://www.instagram.com/amandatenfjord/
 twitter_url: https://twitter.com/amandatenfjord

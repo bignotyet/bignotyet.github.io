@@ -25,6 +25,9 @@
             <h2>{{ page.description }}</h2>
             <h5>{{ page.description2 }}</h5>
             </header>
+            {% if page.spotify_url %}
+            <a href="{{ page.spotify_url }}" class="icon alt fa-spotify" target="_blank"><span class="label">Spotify</span></a>
+            {% endif %}
             {% if page.facebook_url %}
             <a href="{{ page.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a>
             {% endif %}
@@ -45,10 +48,9 @@
             </div>
             -->
             
-            <div class="row 50% uniform">   
-            <div class="4u">{% include youtubePlayer.html id=page.youtubeId1 %}</div>
-            <div class="4u">{% include youtubePlayer.html id=page.youtubeId2 %}</div>
-            <div class="4u$">{% include youtubePlayer.html id=page.youtubeId3 %}</div>
+            <div class="row 50% uniform"> 
+            <div class="6u">{% include youtubePlayer.html id=page.youtubeId1 %}</div>
+            <div class="6u">{% include youtubePlayer.html id=page.youtubeId2 %}</div>
             </div>
             
         </div>

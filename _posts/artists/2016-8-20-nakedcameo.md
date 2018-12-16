@@ -5,6 +5,7 @@ description: Placid Maze
 description2: Austrian
 categories: artists
 
+spotify_url: https://open.spotify.com/artist/6tzSR1jkVo43Y3r4EFA6df?si=xkWO8uQrSIyKLm9Lj8VLUw
 facebook_url: https://www.facebook.com/nacameomusic/
 instagram_url: https://www.instagram.com/nakedcameo/
 twitter_url:

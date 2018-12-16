@@ -12,5 +12,5 @@ twitter_url: https://twitter.com/SoundCity
 
 youtubeId: L7bVIqpEJ7M
 
-image: assets/images/liverpool.jpg
+image: assets/images/liverpoolsoundcity.jpg
 ---
