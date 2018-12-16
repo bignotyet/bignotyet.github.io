@@ -10,9 +10,8 @@ facebook_url: https://www.facebook.com/nacameomusic/
 instagram_url: https://www.instagram.com/nakedcameo/
 twitter_url:
 
-youtubeId1: UfH4us_quiM
-youtubeId2: QfG73xpp9D0
-youtubeId3: 5g6-sYj6_PY
+youtubeId1: QfG73xpp9D0
+youtubeId2: tCOmTosMhCA
 
 image: assets/images/nakedcameo.jpg
 ---
