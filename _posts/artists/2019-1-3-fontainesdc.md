@@ -1,7 +1,7 @@
 ---
 layout: artist
 title: FONTAINES D.C.
-description: Mesmeric trance
+description: Electrifying mesmerization
 description2: Irish
 categories: artists
 
