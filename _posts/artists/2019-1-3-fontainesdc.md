@@ -1,7 +1,7 @@
 ---
 layout: artist
 title: FONTAINES D.C.
-description: Electrifying mesmerization
+description: ELECTRIFYING MESMERIZATION
 description2: Irish
 categories: artists
 
