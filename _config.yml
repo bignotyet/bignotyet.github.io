@@ -23,4 +23,4 @@ markdown: kramdown
 sass:
   style: compressed
   
-ignore: [vendor]
+exclude: vendor
