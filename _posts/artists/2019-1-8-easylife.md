@@ -2,7 +2,7 @@
 layout: artist
 title: EASY LIFE 
 description: EFFORTLESS CHARM
-description2: british
+description2: British
 categories: artists
 
 spotify_url: https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK?si=iNmwabOwT8G4iasd3uJZiQ
