@@ -16,6 +16,6 @@ youtubeId2: xIvjrxpq22M&feature=youtu.be
 image: assets/images/spacecarbonara.jpg
 ---
 
-A bedroom, rhythm, psychedelic jams and fuzz. These are the four main ingredients to make a proper Space Carbonara. Their music is going to make you travel around a world where emotions take living form and walk next to you. Australia has hidden gems. This is one of them. Coming from a small suburb in NSW’s Central Coast, Space Carbonara show how intense the scene is between Newcastle and Sydney.
+A bedroom, rhythm, psychedelic jams and fuzz - these are the four main ingredients to make a proper Space Carbonara. Their music is going to make you travel around a world where emotions take living form and walk next to you. Lo-fi tunes and DIY tapes were the start of David Cunningham, the mind behind this band, and they have managed to keep these values in their last work.
 
 Text by Edw Llorens.
