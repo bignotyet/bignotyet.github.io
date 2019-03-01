@@ -11,7 +11,7 @@ instagram_url: https://www.instagram.com/spacecarbonara/
 twitter_url: 
 
 youtubeId1: s5cVoCJ3HmU
-youtubeId2: xIvjrxpq22M&feature=youtu.be
+youtubeId2: xIvjrxpq22M
 
 image: assets/images/spacecarbonara.jpg
 ---
